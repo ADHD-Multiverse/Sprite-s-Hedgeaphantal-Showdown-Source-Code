@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fatou.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="fatou idle0000" x="0" y="0" width="403" height="451" frameX="-439" frameY="-187" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

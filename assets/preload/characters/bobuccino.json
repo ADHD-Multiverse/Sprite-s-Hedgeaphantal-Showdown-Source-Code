@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bob Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bob Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bob Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bob Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bob Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOBUCCINO_ASSETS",
+	"position": [
+		240,
+		250
+	],
+	"healthicon": "bobmac",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		44,
+		44
+	],
+	"camera_position": [
+		0,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

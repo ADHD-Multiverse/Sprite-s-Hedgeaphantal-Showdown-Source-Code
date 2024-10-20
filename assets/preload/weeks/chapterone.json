@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Hedgeaphant",
+			"sprite",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bloody",
+			"xenophanes",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Chubbiness",
+			"sprite",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Meet The Duo!",
+	"weekName": "Chapter One",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

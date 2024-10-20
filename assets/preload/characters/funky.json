@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "funky idle"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "funky left"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "funky right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "funky down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "funky up"
+		}
+	],
+	"player2": "",
+	"player3": "",
+	"no_antialiasing": false,
+	"image": "characters/Funky_assets",
+	"position": [
+		60,
+		390
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

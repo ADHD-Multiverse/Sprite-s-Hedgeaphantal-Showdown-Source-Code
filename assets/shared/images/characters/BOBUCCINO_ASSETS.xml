@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOBUCCINO_ASSETS.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bob Down0000" x="0" y="0" width="297" height="447"/>
+	<SubTexture name="Bob Down0001" x="0" y="0" width="297" height="447"/>
+	<SubTexture name="Bob Down0002" x="317" y="0" width="297" height="447"/>
+	<SubTexture name="Bob Down0003" x="317" y="0" width="297" height="447"/>
+	<SubTexture name="Bob Idle0000" x="634" y="0" width="227" height="481"/>
+	<SubTexture name="Bob Idle0001" x="634" y="0" width="227" height="481"/>
+	<SubTexture name="Bob Idle0002" x="881" y="0" width="227" height="481"/>
+	<SubTexture name="Bob Idle0003" x="881" y="0" width="227" height="481"/>
+	<SubTexture name="Bob Idle0004" x="1128" y="0" width="227" height="481"/>
+	<SubTexture name="Bob Idle0005" x="1128" y="0" width="227" height="481"/>
+	<SubTexture name="Bob Idle0006" x="1375" y="0" width="227" height="481"/>
+	<SubTexture name="Bob Idle0007" x="1375" y="0" width="227" height="481"/>
+	<SubTexture name="Bob Idle0008" x="1622" y="0" width="227" height="481"/>
+	<SubTexture name="Bob Idle0009" x="1622" y="0" width="227" height="481"/>
+	<SubTexture name="Bob Left0000" x="0" y="501" width="274" height="471"/>
+	<SubTexture name="Bob Left0001" x="0" y="501" width="274" height="471"/>
+	<SubTexture name="Bob Left0002" x="294" y="501" width="274" height="471"/>
+	<SubTexture name="Bob Left0003" x="294" y="501" width="274" height="471"/>
+	<SubTexture name="Bob Right0000" x="588" y="501" width="305" height="475"/>
+	<SubTexture name="Bob Right0001" x="588" y="501" width="305" height="475"/>
+	<SubTexture name="Bob Right0002" x="913" y="501" width="305" height="475"/>
+	<SubTexture name="Bob Right0003" x="913" y="501" width="305" height="475"/>
+	<SubTexture name="Bob Up0000" x="1238" y="501" width="252" height="500"/>
+	<SubTexture name="Bob Up0001" x="1238" y="501" width="252" height="500"/>
+	<SubTexture name="Bob Up0002" x="1510" y="501" width="252" height="500"/>
+	<SubTexture name="Bob Up0003" x="1510" y="501" width="252" height="500"/>
+</TextureAtlas>

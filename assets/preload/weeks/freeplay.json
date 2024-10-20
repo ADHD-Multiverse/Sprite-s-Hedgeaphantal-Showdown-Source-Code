@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"Pizza",
+			"bobmac",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"AIR",
+			"funky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Chubby",
+			"austin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"High School",
+			"zachary",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"roger",
+			"roger",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "The Freeplay Songs!",
+	"weekName": "Freeplay",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
