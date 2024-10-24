@@ -19,6 +19,7 @@ public static var psychEngineVersion:String = '0.6.2'; //This is also used for D
  var awards:FlxSprite;  
  var credits:FlxSprite;  
  var options:FlxSprite; 
+ var gallery:FlxSprite; 
  var debugKeys:Array<FlxKey>;
 
  var menuItems: FlxTypedGroup<FlxSprite>;
@@ -64,6 +65,12 @@ public static var psychEngineVersion:String = '0.6.2'; //This is also used for D
     options.screenCenter(X);
     options.y = 620;
     add(options);
+
+    gallery = new FlxSprite(0,0).loadGraphic(Paths.image("spritemainmenu/gallery"));
+    gallery.antialiasing = FlxG.save.data.antialiasing;
+    gallery.x = 0;
+    gallery.y = 50;
+    add(gallery);
 
     var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "Psych Engine v" + psychEngineVersion, 12);
     versionShit.scrollFactor.set();
@@ -148,5 +155,17 @@ public static var psychEngineVersion:String = '0.6.2'; //This is also used for D
                             MusicBeatState.switchState(new options.OptionsState());
                             }
                         }
+                        if (FlxG.mouse.overlaps(gallery))
+                            {
+                                if(FlxG.mouse.pressed)
+                                {
+                                FlxG.sound.play(Paths.sound('confirmMenu'));
+                                FlxG.mouse.visible = false;
+                                PlayState.SONG = Song.loadFromJson('Gallery', 'Gallery');
+                                PlayState.isStoryMode = false;
+                                PlayState.storyDifficulty = 0;
+                                LoadingState.loadAndSwitchState(new PlayState());
+                                }
+                            }
 }
 }
